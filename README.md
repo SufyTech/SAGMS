@@ -85,6 +85,16 @@ Confirms user identity and location before submission.
    git clone https://github.com/SufyTech/SAGMS.git
    cd SAGMS
 
+## 🚧 Project Status
+
+✅ Frontend – **Completed** (by [Sufiyan Khan](https://github.com/SufyTech))  
+🛠️ Backend – **In Progress** (being developed by [@attharvsabale](https://github.com/attharvsabale))  
+🧪 Testing & Deployment – **Pending**
+
+🎯 **Overall Progress:** 70% Done  
+
+> ⏳ Backend development is actively underway. We’ll be integrating APIs and database functionality soon. Stay tuned!
+
 
 ## 🤝 Contributing
 

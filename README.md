@@ -73,7 +73,7 @@ Confirms user identity and location before submission.
 
 **Frontend:** Next.js, React, TailwindCSS  
 **Backend:** Node.js, DrizzleORM  
-**Database:** PostgreSQL  
+**Database:** MongoDB  
 **Other Tools:** Git, GitHub, Netlify, Vercel  
 
 ---
@@ -87,9 +87,10 @@ Confirms user identity and location before submission.
 
 ## 🚧 Project Status
 
-✅ Frontend – **Completed** (by [Sufiyan Khan](https://github.com/SufyTech))  
+✅ Frontend – **Completed** (by [Sufiyan Khan](https://github.com/SufyTech) & [Atharv Sabale](https://github.com/attharvsabale))  
 🛠️ Backend – **In Progress** (being developed by [@attharvsabale](https://github.com/attharvsabale))  
 🧪 Testing & Deployment – **Pending**
+
 
 🎯 **Overall Progress:** 70% Done  
 
@@ -109,6 +110,9 @@ Feel free to open issues or submit pull requests to improve the project.
 🔗 [LinkedIn](https://www.linkedin.com/in/sufiyan-khan-a86521301)  
 📧 Email: suzkhan135@gmail.com
 
+**Atharv Sabale**  
+🔗 [GitHub](https://github.com/attharvsabale)  
+📧 Email: atharvsabale619@gmail.com
 ---
 
 ⭐ If you like this project, don’t forget to **star** the repo and share it!
